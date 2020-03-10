@@ -1,0 +1,4 @@
+export enum ENV_NAMES {
+  PRODUCTION = "PRODUCTION",
+  LOCAL = "LOCAL",
+}
